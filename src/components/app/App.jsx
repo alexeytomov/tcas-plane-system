@@ -1,11 +1,13 @@
 import './App.css';
-import CreateBlocks from "../markup/markup.jsx";
-import HeightLine from "../height-line/height-line";
+
+import Screen from "../screen/screen";
+import Control from "../control/control";
 
 function App() {
   return ( 
   <div className = "App">
-    <CreateBlocks />
+    <Screen></Screen>
+    <Control></Control>
   </div>
   );
 }

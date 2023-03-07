@@ -1,0 +1,8 @@
+.leftPlaneZone{
+    position: relative;
+    width: 100%;
+    height: 250px;
+    opacity: 1;
+    border-bottom: 4px dashed black;
+    margin-bottom: 100px;
+}
