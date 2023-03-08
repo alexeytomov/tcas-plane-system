@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/tcas-plane-system/static/css/main.073c9b0a.css",
-    "main.js": "/tcas-plane-system/static/js/main.368cc2e8.js",
-    "static/js/787.44ebbb92.chunk.js": "/tcas-plane-system/static/js/787.44ebbb92.chunk.js",
-    "static/media/logo.svg": "/tcas-plane-system/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/tcas-plane-system/static/css/main.1ad26c9e.css",
+    "main.js": "/tcas-plane-system/static/js/main.e3b89655.js",
+    "static/media/a350-left-sm.png": "/tcas-plane-system/static/media/a350-left-sm.44ea258edbac559ff008.png",
+    "static/media/a350-right-sm.png": "/tcas-plane-system/static/media/a350-right-sm.98dba21a22ae1543d88b.png",
     "index.html": "/tcas-plane-system/index.html",
-    "main.073c9b0a.css.map": "/tcas-plane-system/static/css/main.073c9b0a.css.map",
-    "main.368cc2e8.js.map": "/tcas-plane-system/static/js/main.368cc2e8.js.map",
-    "787.44ebbb92.chunk.js.map": "/tcas-plane-system/static/js/787.44ebbb92.chunk.js.map"
+    "main.1ad26c9e.css.map": "/tcas-plane-system/static/css/main.1ad26c9e.css.map",
+    "main.e3b89655.js.map": "/tcas-plane-system/static/js/main.e3b89655.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.368cc2e8.js"
+    "static/css/main.1ad26c9e.css",
+    "static/js/main.e3b89655.js"
   ]
 }
